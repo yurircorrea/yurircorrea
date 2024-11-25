@@ -6,15 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yurircorrea&label=Profile%20views&color=0e75b6&style=flat" alt="yurircorrea" /> </p>
 
-- 🔭 I’m currently working as Software Developer at [Stefanini Group](https://stefanini.com/en)
+- 🔭 I’m currently working as a Software Developer at [Stefanini Group](https://stefanini.com/en)
+
+- 🔭 I’m also working as a Technology Instructor at [SEST SENAT](https://sestsenat.org.br)
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, Scala**
 
-- 📝 I'm graduated in Software Engineering by [Federal Tech University of Paraná (UTFPR)](http://www.utfpr.edu.br/english)
+- 📝 I graduated in Software Engineering from [Federal Tech University of Paraná (UTFPR)](http://www.utfpr.edu.br/english)
 
 - 🔭 I currently work with **Java, PHP**
 
-- ⚡ Some facts about me: [I'm passionate, love to play video games and practice sports (specially Rugby and American Football)](I'm passionate, love to play video games and practice sports (specially Rugby and American Football))
+- ⚡ Some facts about me: [I'm passionate, love to play video games and practice sports (especially Rugby and American Football)](I'm passionate, love to play video games and practice sports (especially Rugby and American Football))
 
 - 📫 How to reach me **yurireisc@gmail.com**
 
